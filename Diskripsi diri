@@ -1,0 +1,33 @@
+<!DOCTYPE.html>
+<html>
+<head >
+<title > Biodata Diri</title>
+</head >
+<h1 style="text-align:center;color:yellow; background-color:skyblue">Deskripsi Diri</h>
+
+ <br><div id="photo"><img src="aku.jpg" width="350" hight="200" /></div></br>
+  
+<br>
+<div class="content2">
+<p style="text-align:justify;color:black;font-size:16px"> Nama saya <b>Korawati MujiAstutik</b>, 
+Saya lahir di <em>Malang</em>, 15 Maret 1993,
+saya anak kedua dari 3 bersaudara. Sekarang saya kuliah di <em>Universitas Negeri Malang</em> atau UM, di UM 
+saya mengambil jurusan teknik elektro, <em>prodi</em> <strong>S1 Pendidikan Teknik Informatika</strong>. 
+
+</p>
+
+<p style="text-align:justify;color:black;font-size:16px"> Saya Hobby saya adalah membaca, menonton film, main games, dan masih banyak lainnya, yaa .. pokoknya yang asik asik aja gitu .. heheh</p>
+
+<p style="text-align:justify;color:black;font-size:16px"> cita-cita saya adalah yang <small>pertama</small> 
+cari pasangan yang sukses bagi dunia akhirat .. hehe, yang 
+<smaal>kedua</small> ketemu sama Lee Min Hoo .. hehe, dia aktor Korea favorit saya :)
+</p>
+
+<p style="text-align:justify;color:black;font-size:16px">Harapan saya yaitu bisa membahagiakan kedua orang tua 
+saya yang telah susah payah membesarkan dan mendidik saya. 
+Merak selalu memberikan semangat, nasihat, saran  terutama <strong>Ibu</strong> dan dukungan kepada saya baik diwaktu
+senang maupun sedih.</p></div><br>
+<body>
+
+</body>
+</html>
