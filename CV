@@ -1,0 +1,57 @@
+<DOCTYPE! html>
+
+<html>
+<head>
+<form>
+</br>
+<div style="text-align: center ; font-family: Georgia ; background-color: #808080; border-radius: 25px; border: 5px solid #5d6265; padding: 40px; width: 700px; hight: 10px; margin-left:300px;">
+  
+	<h2 style="color: #b7b7b7"> CURRICULUM VITAE </h2>
+</div> </br>
+
+<div style="background-color: #808080; border-radius: 5px; border: 5px solid #5d6265; padding: 2px;width: 1200px; hight: 400px; margin-left:50px;">
+
+</div></br>
+
+<body style=" background: url(hitam.jpg)">
+<div style="float:left; width: 900px; height: 1000px; border-radius: 45px;margin-right:300px; margin-left: 220px;border: 5px solid #646569; color :#b1b3b9">
+	<br></br>
+	<img src = "IMG_8507.jpg" style="float:left; margin-right:90px; border: 2px solid #b7b7b7;border-radius: 10px; margin-left: 50px; margin-button: 10px" height= "140px" width="94px" >
+	<h2 style="text-align:left; margin-top:30px; margin-left: 30px;">IDENTITAS DIRI</h2>
+			<br></br>
+			<br></br>
+			<ul><pre>Nama                	: Korawati Muji Astutik </pre></ul>
+			<ul><pre>Tempat, Tanggal Lahir	: Malang, 6 Agustus 1993</pre></ul> 
+			<ul><pre>Alamat             	: Jl. Achmad Yani, Dusun Taman Kuncaran, Kec Tirtoyudo, Kab Malang</pre></ul>
+			<ul><pre>Jenis Kelamin       	: Perempuan</pre></ul>
+			<ul><pre>Status              	: Belum Menikah</pre></ul>
+			<ul><pre>Golongan Darah      	:  - </pre></ul>
+			<ul><pre>Agama               	: Islam</pre></ul>
+			<ul><pre>HP / Email            	: 085755846118 /  sayafaizfirman@gmail.com </pre></ul>
+			<ul><pre>Blog                	: Berbagiinfo.blogspot.com</pre></ul>
+		
+		 	<hr style="border: 2px solid #2c4554; border-radius:20px">
+			<ul>
+			<h2 style=" color :#b1b3b9">PENDIDIKAN</h2>
+			<pre><ol style="font-family: Book Antique; font-size: 15 px;">SD    	: SD Negeri 1 Taman Kuncaran</ol>
+				 <ol style="font-family: Book Antique; font-size: 15 px;">SMP   	: SMP Negeri 1 Dampit</ol>
+				 <ol style="font-family: Book Antique; font-size: 15 px;">SMA   	: SMA Negeri 1 Dampit</ol></pre>
+			</ul>
+			
+		 	<hr style="border: 2px solid #2c4554; border-radius:20px">
+			<ul>
+				<h2 style="color :#b1b3b9"> RIWAYAT ORGANISASI</h2>
+				<li style="margin-left: 40px;"> Bendahara OSIS SMP 1 Dampit </li>
+				<li style="margin-left: 40px;"> Sekertaris  OSIS SMA N 1 Dampit</li>
+					<ul>
+			<h2>PRESTASI YANG DIRAIH</h2>
+			<li style="margin-left: 40px;"> Juara 1 Lari Marathon se Kab-Malang </li>
+<li style="margin-left: 40px;"> Juara 1 Baris Berbaris Se Kab-Malang</li>
+			</ul>
+</div>
+</div>
+<div style="float:left; width: 1330px; height: 100px;">
+</form>
+</head>
+</body>
+</html>
